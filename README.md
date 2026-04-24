@@ -6,7 +6,8 @@
 ---
 
 ## 👥 Project Team
-* Leo P. Paliuanan - Technical adviser
+
+* Leo P. Paliuanan - Technical Adviser
 * Areola, Denver O. - Leader
 * Balanza, John Benedict Q. - Member
 * Anagaran, Rajan P. - Member
