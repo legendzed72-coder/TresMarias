@@ -3,12 +3,15 @@
 
 **Progressive Web App (PWA) for Hyper-Local Bakery Delivery and Pre-orders**
 
+---
 
-👥 Project Team
- LEO P. PALIUANAN / Technical adviser
-Areola, Denver O. /lEADER
-Balanza, John Benedict Q. /MEMBER
-Anagaran, Rajan P. /MEMBER
+## 👥 Project Team
+* Leo P. Paliuanan - Technical adviser
+* Areola, Denver O. - Leader
+* Balanza, John Benedict Q. - Member
+* Anagaran, Rajan P. - Member
+
+---
 
 ## 📌 Overview
 
